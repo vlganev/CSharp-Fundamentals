@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Maximal Sum", "4. Maxima
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Rubiks Matrix", "5. Rubiks Matrix\5. Rubiks Matrix.csproj", "{4333BDC4-58AF-4A1A-9E6F-BF262D18DDA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Target Practice", "6. Target Practice\6. Target Practice.csproj", "{283BE9D8-5298-422C-AB7F-768BE76D3370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Lego Blocks", "7. Lego Blocks\7. Lego Blocks.csproj", "{8BEC17A9-F406-42F1-9CA9-7D8147ED24DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{4333BDC4-58AF-4A1A-9E6F-BF262D18DDA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4333BDC4-58AF-4A1A-9E6F-BF262D18DDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4333BDC4-58AF-4A1A-9E6F-BF262D18DDA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283BE9D8-5298-422C-AB7F-768BE76D3370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283BE9D8-5298-422C-AB7F-768BE76D3370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283BE9D8-5298-422C-AB7F-768BE76D3370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283BE9D8-5298-422C-AB7F-768BE76D3370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BEC17A9-F406-42F1-9CA9-7D8147ED24DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BEC17A9-F406-42F1-9CA9-7D8147ED24DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BEC17A9-F406-42F1-9CA9-7D8147ED24DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BEC17A9-F406-42F1-9CA9-7D8147ED24DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

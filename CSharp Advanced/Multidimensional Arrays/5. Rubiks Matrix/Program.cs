@@ -3,11 +3,9 @@ Rubik’s cube – everyone’s favorite head-scratcher. Writing a program to so
 1	2	3	4
 5	6	7	8
 
-
 Next, you will receive series of commands, indicating which row or column you must move, in which direction, and how many times. For example, 1 up 1 means: column 1, direction: up, 1 move. After executing it, the matrix should look like:
 1	6	3	4
 5	2	7	8
-
 
 Directions left and right means you must move the corresponding row, while up and down are related to the columns. After shuffling the Rubik’s matrix, you have to rearrange it (meaning that the values in each cell should be in increasing order, such as the ones in the original matrix). The rearranging process should start at top-left and end at bottom-right. Find the position of the value you need, and print the swap command on the console, in the format described below.
 */
