@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+Write a program that reads a text file and inserts line numbers in front of each of its lines. 
+The result should be written to another text file. Use StreamReader in combination with StreamWriter.
+*/
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
